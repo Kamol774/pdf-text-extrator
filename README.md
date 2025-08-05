@@ -2,6 +2,9 @@
 With this app, you can easily extract text from any PDF file.
 
 
-to run:   
-      pnpm install
-      pnpm dev
+ 
+
+## to run:  
+
+- pnpm install
+- pnpm dev
